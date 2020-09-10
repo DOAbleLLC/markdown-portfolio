@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Art
+2. Fashion
+3. Travel
+4. Architecture
+5. Tech
