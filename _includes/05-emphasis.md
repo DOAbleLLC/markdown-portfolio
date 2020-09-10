@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. *Art*
+2. Fashion 
+3. Travel
+4. __Architecture__
+5. Tech is the future 
